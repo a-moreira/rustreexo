@@ -27,7 +27,6 @@ jobs:
   linting:
 
     runs-on: ubuntu-latest
-    
     steps:
     # Install Rust nightly toolchain
     - uses: actions/checkout@v3
